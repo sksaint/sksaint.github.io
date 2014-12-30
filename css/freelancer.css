@@ -228,7 +228,7 @@ section.success {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-size: 20px;
+    font-size: 12px;
     color: rgba(44,62,80,1); /*covering up icon*/
 }
 
